@@ -58,6 +58,7 @@
     ["Golden"] = game.ReplicatedStorage.GoldenHit,
     ["Cheeky"] = game.ReplicatedStorage.CheekyHit,
     ["Reaper"] = game.ReplicatedStorage.ReaperHit,
+    ["Replica"] = game.ReplicatedStorage.ReplicaHit,
     ["Defense"] = game.ReplicatedStorage.DefenseHit,
     ["Killstreak"] = game.ReplicatedStorage.KSHit,
     ["Reverse"] = game.ReplicatedStorage.ReverseHit,
