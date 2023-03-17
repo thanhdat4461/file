@@ -31,6 +31,7 @@
     ["Rattlebones"] = game.ReplicatedStorage.GeneralHit,
     ["Chain"] = game.ReplicatedStorage.GeneralHit,
     ["Ping Pong"] = game.ReplicatedStorage.GeneralHit,
+    ["Whirlwind"] = game.ReplicatedStorage.GeneralHit,
     ----------------------------------------
     
     ["Diamond"] = game.ReplicatedStorage.DiamondHit,
